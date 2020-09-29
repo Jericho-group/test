@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Hello! This is XIMI LAB!12412414</h1>
+        <h1>Hello! This is XIMI LAB!</h1>
         <p>My AWS Elastic Beanstalk <em>PHP</em> application is now running on my own dedicated environment in the OPENSHIFT&nbsp;pipeline</p>
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
